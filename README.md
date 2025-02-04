@@ -1,4 +1,4 @@
 # first-git-demo
 My first git repository
 <br>
-Author-Nitish Kumar
+Author-Nitish Kumar(jr.)
